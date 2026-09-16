@@ -1,0 +1,7 @@
+requests
+geopandas
+rasterio
+shapely
+streamlit
+folium
+streamlit-folium
